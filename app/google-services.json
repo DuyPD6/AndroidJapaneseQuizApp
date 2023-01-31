@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521761567752",
+    "project_id": "japanesequizapp",
+    "storage_bucket": "japanesequizapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521761567752:android:324bea6be3e1db0a1a8dbd",
+        "android_client_info": {
+          "package_name": "com.example.androidjapanesequizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521761567752-sbrr51nhjlpt14u81p6vvihekjj256oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtsfSEn6qmbpJOt7Q39MMHfljyA7aMlwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521761567752-sbrr51nhjlpt14u81p6vvihekjj256oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
